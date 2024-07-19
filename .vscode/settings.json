@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/*.d": true,
+        "**/*.o": true
+    },
+    "search.exclude": {
+        "**/*.d": true,
+        "**/*.o": true
+    }
+}
